@@ -1,7 +1,7 @@
-- 👋 Hi, I’m RohitSaini
-- 👀 I’m interested in ...AI and Ml
-- 🌱 I’m currently learning ...High School
-- 💞️ I’m looking to collaborate on ...Ai and ML
+- 👋 Hi, I’m Rohit Saini
+- 👀 I’m interested in ...Computers
+- 🌱 I’m currently learning ...Computer engineering at SDSU
+- 💞️ I’m looking to collaborate on ... Engineering Projects
 - 📫 How to reach me ... rohitsaini1427@gmail.com
 
 <!---
